@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "firstName": "mino",
+      "lastName": "test",
+      "city": "Firenze",
+      "email": "pierdomenico.reitano@farport.co",
+      "phone": "+39 3200410975",
+      "notes": "ciao come stai?",
+      "id": 2
+    },
+    {
+      "firstName": "gandalf",
+      "lastName": "il grigio",
+      "city": "Valinor",
+      "email": "gandalf@ilgrigio.com",
+      "phone": "+39 3200410975",
+      "notes": "uno stregone non è mai in ritardo",
+      "id": 3
+    }
+  ]
+}
