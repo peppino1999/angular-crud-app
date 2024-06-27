@@ -1,21 +1,23 @@
 {
   "users": [
     {
+      "email": "mino@firenze.dev",
+      "password": "$2a$10$VwdPucNL5fscpLzk0hVt2u60.CQPp.C.lr.hzDik/ldT5tnrqEY3i",
       "firstName": "mino",
       "lastName": "test",
       "city": "Firenze",
-      "email": "pierdomenico.reitano@farport.co",
-      "phone": "+39 3200410975",
-      "notes": "ciao come stai?",
+      "phone": "+39 1234567890",
+      "notes": "12312323343",
       "id": 2
     },
     {
+      "email": "test@test.it",
+      "password": "$2a$10$.M3XXHkE00GuVhFlVfcVceGOUg6jR2eYi2JpfRqjpGSKBYQio.1iG",
       "firstName": "gandalf",
       "lastName": "il grigio",
       "city": "Valinor",
-      "email": "gandalf@ilgrigio.com",
-      "phone": "+39 3200410975",
-      "notes": "uno stregone non è mai in ritardo",
+      "phone": "+39 1234567890",
+      "notes": "1234567ersada",
       "id": 3
     }
   ]
